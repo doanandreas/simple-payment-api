@@ -1,0 +1,8 @@
+{
+  "name": "simple-payment-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:doanandreas/simple-payment-api.git",
+  "author": "doanandreas <doanan3736@gmail.com>",
+  "license": "MIT"
+}
